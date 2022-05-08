@@ -94,7 +94,7 @@ const Header = ({ handleClickOpen, walletAddress, connectWalletPressed }) => {
               justifyContent: "flex-end",
               width: "40%",
               height: 50,
-              backgroundColor: "#fff0",
+              backgroundColor: "#ff00",
               alignItems: "center",
             }}
             //color changed
