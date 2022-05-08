@@ -46,7 +46,7 @@ export default function NFTCard() {
           </Typography>
           
           <Typography variant="body2" color="text.secondary" text-align="center">
-            Info about NTF should be written here and description also
+            Info about NFT should be written here and description also
             can be written here.
           </Typography>
         </CardContent>
