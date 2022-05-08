@@ -97,6 +97,7 @@ const Header = ({ handleClickOpen, walletAddress, connectWalletPressed }) => {
               backgroundColor: "#fff0",
               alignItems: "center",
             }}
+            //color changed
           >
             <IconButton aria-label="create post" onClick={handleClickOpen}>
               <AddCircleOutlineRoundedIcon fontSize="large" color="white" />
